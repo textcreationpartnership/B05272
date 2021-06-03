@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Edinbvrgh, the 4. of May 1649. Whereas the Estates of Parliament, upon consideration of the insolent practices and rebellious attempt of Thomas Mackenzie of Pluscarden ...,</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05272</idno><idno type="EEBO-CITATION">52615037</idno>
+  <idno type="VID">176146</idno>
+  <idno type="EEBO-PROQUEST">2240858951</idno>
+  
+            <idno type="STC">Wing S1356</idno>
+            <idno type="STC">ESTC R184022</idno>
+            <idno type="OCLC">52615037</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176146)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2762:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Edinbvrgh, the 4. of May 1649. Whereas the Estates of Parliament, upon consideration of the insolent practices and rebellious attempt of Thomas Mackenzie of Pluscarden ...,</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Evan Tyler,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Initial letter.</note>
+                  <note>Imprint from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mackenzie, Thomas, --  of Pluscardine.</term>
+               <term type="topical_term">Treason --  Scotland --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:176146:1"/>
+            <opener>
+               <dateline>
+                  <hi>EDINBVRGH,</hi>
+                  <date>the 4. of <hi>May</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">V</seg>VHereas the Estates of Parliament, upon consideration of the insolent practises and Rebellious attempts of <hi>Thomas Mackenzie</hi> of <hi>Pluscarden,</hi> and others his Associats did by Act of Parliament of the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>day of<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> last, Declare them &amp; all such as should joyn with them, guilty of the crime of high Treason, And prohibit all per<g ref="char:EOLhyphen"/>sons whatsoever to give any manner of assistance or countenance to the persons aforesaid, under the pain of being esteemed Rebels, and enemies to Religion, King, and Kingdom; And further the Committee of Estates out of their earnest desire to preserve the Peace of this Kingdom, and to reclaim these men from their wicked wayes, to their duty and obedience, and specially out of there clemency towards such as through mis-information were ensnared into these courses, did give power to Lieut. General <hi>Leslie</hi> to make a generall offer to all such as were in Armes, of freedom in their persons and estates, they giving assu<g ref="char:EOLhyphen"/>rance for their good behavior in time coming; All which notwithstanding <hi>Iames</hi> L. <hi>Ogilvie</hi>
+               <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Lord <hi>Rae, Lewis Gordoun,</hi> son to the late Marquis of <hi>Huntly,</hi> and <hi>Iohn Middleton</hi> of<gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> sometime called, Ge<g ref="char:EOLhyphen"/>nerall Major <hi>Middleton,</hi> have risen in Armes, and joyned in open Rebellion with the sa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d <hi>Thomas Mac<g ref="char:EOLhyphen"/>kenzie</hi> of <hi>Pluscarden,</hi> which sheweth that no necessity for their own preservation hath dr<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en them to this course, but their constant malice and wickedness against the Cause of God, and peace of this Kingdom, and an ambitious desire to attain their own base ends; for if they had any love to Religion and the Solemn League and Covenant, which they have sworn and subscribed, they would not have engaged in ways so evidently destructive thereunto, against the minde and judgement of the whole Kirk, or if they had any re<g ref="char:EOLhyphen"/>gard to the Peace of this Kingdom, they would not begin an unnaturall VVar to shed the blood and tear the bowels of their own native Countrey, and increase the burdens of this exhausted Kingdom, and there<g ref="char:EOLhyphen"/>by (if the Lord in mercy prevent not) bring on Famine and Desolation, neither would they if they had any respect to the King, persist in designes so prejudiciall to his honour and welfare, endeavouring (so far as in them lieth) to divert him from giving satisfaction to the desires of the Commissioners sent from this King<g ref="char:EOLhyphen"/>dom, and now attending his Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>esties answer; Therefore the Committee of Estates after mature delibe<g ref="char:EOLhyphen"/>ration, do hereby Declare the said persons with their adherents and abettors, and all such as shall hereafter joyn or concur with him, to be guilty of high Treason, and to be proceeded against accordingly; And dis<g ref="char:EOLhyphen"/>charges all persons of whatsomever quality or degree within this Kingdom to assist or supply the saids Re<g ref="char:EOLhyphen"/>bells and their adherents or any of them with Men, Money, Armes, Ammunition, Victuall, Counsell or Intelligence, or to keep any sort of correspondence publick or private, or any ways aid or countenance them or any of them under the pain of being esteemed as Rebels, and to be proceeded against as enemies to Reli<g ref="char:EOLhyphen"/>gion, the Kings Majesty and the peace of this Kingdom; And further, give power and warrant to all the good Subjects within this Kingdom to rise in Armes for opposing and suppressing the said Rebels, as they shall be required by the General, Lieut. General <hi>Lesly,</hi> or any others having authority for that effect.</p>
+            <p>And to the end all the Kingdom may have full satisfaction, concerning the equity of our proceedings, and that these now in rebellion may be yet reclaimed from their wicked practises and designs, if it be possible, or otherways left altogether unexcusable, The Committee of Estates is content to pass by any thing they have done in reference to this late Rebellion, and to allow unto them freedom in their persons and estates, they renouncing and disclaiming their present course, and giving assurance for their dutifull carriage in time coming; It being always provided, that such as shall accept of this offer shall come into Lieut. Generall <hi>Leslie</hi> and give the satisfaction aforesaid, betwixt and the twenty or this instant, in which case they shall be free, but that the said Declaration shall stand in full force against all such as after the said 20. day shall persist in Rebellion or joyn with them: And that in respect of their frequent out-breakings upon all occasions, their wives, children and families shall be no longer under the protection of this Kingdom, and that such course shall be taken for transporting them out of the Kingdom to Forraign parts, as the Estates of Parlia<g ref="char:EOLhyphen"/>ment or their Committees shall think fit; And for the encouragement of all such as shall suffer in opposing or suppressing the said Rebels, The Committee of Estates Declares, that the losses and sufferings of such as have or shall be forward and active in the Cause against the Rebels shall be taken into special considera<g ref="char:EOLhyphen"/>tion as their carriage shall deserve, and repaired out of the Estates of such as shall obstinately persist in the said Rebellion; As likewayes it is declared, that whosoever have or shall do any thing against the said Re<g ref="char:EOLhyphen"/>bels, and their adherents, or Abettors, or any of them in their persons or goods, during the time of their continuance in Rebellion, shall be free of all actions, criminall or civill at the instance of any person whatso<g ref="char:EOLhyphen"/>ever for the same. And lastly it is Ordained, that these presents be Printed and published at the Mercat Crosse of <hi>Edinburgh, Glasgow, Stirling, Perth</hi> and <hi>Aberdeen;</hi> VVhich publications at the places aforesaid, The Committee of Estates, do Declare to be a sufficient intimation to the persons above specified, and to all the Lieges.</p>
+            <closer>
+               <signed>Tho: Henderson.</signed>
+            </closer>
+            <pb facs="tcp:176146:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
